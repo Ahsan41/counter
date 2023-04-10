@@ -11,8 +11,19 @@ body{
     display: block;
     font-size: 40px;
     text-align: center;
+    padding-top: 150px;
 }
-button{
+.button{
     padding: 10px 30px;
     border-radius: 10px;
-}
+    align-items: center;
+    text-align: center;
+} 
+.main{
+    height: 100vh;
+    width: 100%;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+} 
